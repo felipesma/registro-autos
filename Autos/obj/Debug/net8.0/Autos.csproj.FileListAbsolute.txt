@@ -1,0 +1,14 @@
+C:\Mac\Home\Documents\desarrollos\cursos\csharp\Autos\Autos\bin\Debug\net8.0\Autos.exe
+C:\Mac\Home\Documents\desarrollos\cursos\csharp\Autos\Autos\bin\Debug\net8.0\Autos.deps.json
+C:\Mac\Home\Documents\desarrollos\cursos\csharp\Autos\Autos\bin\Debug\net8.0\Autos.runtimeconfig.json
+C:\Mac\Home\Documents\desarrollos\cursos\csharp\Autos\Autos\bin\Debug\net8.0\Autos.dll
+C:\Mac\Home\Documents\desarrollos\cursos\csharp\Autos\Autos\bin\Debug\net8.0\Autos.pdb
+C:\Mac\Home\Documents\desarrollos\cursos\csharp\Autos\Autos\obj\Debug\net8.0\Autos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\desarrollos\cursos\csharp\Autos\Autos\obj\Debug\net8.0\Autos.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\desarrollos\cursos\csharp\Autos\Autos\obj\Debug\net8.0\Autos.AssemblyInfo.cs
+C:\Mac\Home\Documents\desarrollos\cursos\csharp\Autos\Autos\obj\Debug\net8.0\Autos.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\desarrollos\cursos\csharp\Autos\Autos\obj\Debug\net8.0\Autos.dll
+C:\Mac\Home\Documents\desarrollos\cursos\csharp\Autos\Autos\obj\Debug\net8.0\refint\Autos.dll
+C:\Mac\Home\Documents\desarrollos\cursos\csharp\Autos\Autos\obj\Debug\net8.0\Autos.pdb
+C:\Mac\Home\Documents\desarrollos\cursos\csharp\Autos\Autos\obj\Debug\net8.0\Autos.genruntimeconfig.cache
+C:\Mac\Home\Documents\desarrollos\cursos\csharp\Autos\Autos\obj\Debug\net8.0\ref\Autos.dll
